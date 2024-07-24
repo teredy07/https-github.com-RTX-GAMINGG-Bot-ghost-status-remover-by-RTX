@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Celestine TCS bot"];
+const statusMessages = ["Ryan Gosling Bot"];
 
 
 let currentIndex = 0;
